@@ -7,4 +7,4 @@
 ### 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/ваш_пользователь/название_репозитория.git
+git clone https://github.com/mikayilaz/FilaErginator
