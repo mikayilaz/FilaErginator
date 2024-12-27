@@ -8,3 +8,22 @@
 
 ```bash
 git clone https://github.com/mikayilaz/FilaErginator
+```
+
+### 2. Перейдите в директорию проекта:
+   
+```bash
+cd FilaErginator
+```
+
+### 3. Установите зависимости:
+
+```bash
+pip3 install -r requirements.txt
+```
+
+**⚙️ Использование**
+
+```shell
+python3 file_encryptor.py
+```
